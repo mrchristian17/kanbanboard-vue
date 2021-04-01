@@ -3,6 +3,8 @@
 ## Project setup
 ```
 npm install
+npm i vuedraggable
+npm i bootstrap-vue
 ```
 
 ### Compiles and hot-reloads for development
